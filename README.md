@@ -1,4 +1,8 @@
-## Olá, meu nome é Kaliny👋
+## Olá, meu nome é Kaliny👋😃
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" widht="30"/>
+
 
 <!--
 **kaliny109/kaliny109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
