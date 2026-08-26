@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kaliny109&layout=pie&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=kaliny109&layout=pie&langs_count=4&theme=radical)
+
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kaliny109&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=kaliny109&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=ambient_gradient)
